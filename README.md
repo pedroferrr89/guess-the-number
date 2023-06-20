@@ -7,6 +7,6 @@ Using Python, I programmed one game against AI. There are 2 possible games modes
 
 Modules used: random
 
-Topics covered: If statments, for loops and input function
+Topics covered: If statments, for loops, lists and input function
 
 Any comments or suggestions are greatly appreciated!
